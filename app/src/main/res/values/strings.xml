@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mqtt Android Sample</string>
+
+    <string name="general_please_write_some_message">Please write some message</string>
+    <string name="general_submit">Submit</string>
+    <string name="general_messages">Messages:</string>
+
+    <string name="main_enter_some_message">Enter some message here</string>
+</resources>
